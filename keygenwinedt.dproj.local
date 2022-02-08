@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/05 03.00.00.000.840,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/05 03.00.00.000.071,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/07 07.00.00.000.856,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/08 05.00.00.000.092,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/08 19.00.00.000.163,C:\Users\aloel\Desktop\kgwinedt\Unit1.dfm=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/08 19.00.00.000.097,C:\Users\aloel\Desktop\kgwinedt\keygenwinedt.dproj=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/08 19.00.00.000.163,C:\Users\aloel\Desktop\kgwinedt\Unit1.pas=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/08 19.00.00.000.847,=C:\Users\aloel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
